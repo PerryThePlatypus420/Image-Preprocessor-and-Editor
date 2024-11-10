@@ -1,1 +1,1 @@
-# Image-Preprocessor-and-Editor
+# DIP_PROJECT
